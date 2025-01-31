@@ -12,15 +12,14 @@ In this project, I developed a Sentiment Analysis System capable of classifying 
 <h3>🛠 Problem Statement</h3>
 <br>
 Handling unstructured textual data presents multiple challenges, including:
-<br>
+
 Lack of column headers in the dataset.
-<br>
+
 Presence of special symbols, stopwords, and inconsistent casing in text.
-<br>
+
 Need to convert raw text into numerical vectors for model training.
-<br>
+
 High dimensionality of data, making model training computationally intensive.
-<br>
 <br>
 To address these issues, I:
 ✔ Imported and cleaned the dataset using Pandas.
