@@ -5,20 +5,19 @@
 
 In this project, I developed a Sentiment Analysis System capable of classifying text into four categories: Positive, Negative, Neutral, and Irrelevant. This system leverages Natural Language Processing (NLP) techniques and Deep Learning (LSTM) to analyze sentiment effectively. By processing large volumes of unstructured text data, this model can be useful for businesses to monitor customer feedback, analyze social media sentiment, and gain insights into public opinion.
 <br>
-<br>
 
 ---
 <br>
 <h3>🛠 Problem Statement</h3>
 <br>
 Handling unstructured textual data presents multiple challenges, including:
-
+<br>
 Lack of column headers in the dataset.
-
+<br>
 Presence of special symbols, stopwords, and inconsistent casing in text.
-
+<br>
 Need to convert raw text into numerical vectors for model training.
-
+<br>
 High dimensionality of data, making model training computationally intensive.
 <br>
 To address these issues, I:
