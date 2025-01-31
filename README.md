@@ -42,8 +42,8 @@ The primary objective of this project was to:
 <br>
 <h3>📊 Dataset Details</h3>
 <br>
-📁 Source: Company-provided dataset
-📊 Size: 74,655 rows & 4 columns
+📁 Source: Company-provided dataset<br>
+📊 Size: 74,655 rows & 4 columns<br>
 📌 Data Type: Structured and textual data
 <br>
 <br>
