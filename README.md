@@ -53,19 +53,19 @@ The primary objective of this project was to:
 <br>
 This project involved multiple NLP and Deep Learning steps:
 <br>
-🔹 Data Preprocessing (NLP Techniques)
+<h3><b>🔹 Data Preprocessing (NLP Techniques)</b></h3>
 <br>
-✔ Removing Stopwords – Eliminated common words that don’t contribute to sentiment.
-✔ PorterStemmer – Applied stemming to reduce words to their root form.
-✔ Lowercasing – Standardized text for uniformity.
-✔ Tokenization – Converted words into numerical tokens for processing.
+✔ Removing Stopwords – Eliminated common words that don’t contribute to sentiment.<br>
+✔ PorterStemmer – Applied stemming to reduce words to their root form.<br>
+✔ Lowercasing – Standardized text for uniformity.<br>
+✔ Tokenization – Converted words into numerical tokens for processing.<br>
 <br>
-🔹 Feature Engineering
+<h3><b>🔹 Feature Engineering</b></h3>
 <br>
-✔ Word Embeddings – Created meaningful word representations.
+✔ Word Embeddings – Created meaningful word representations.<br>
 ✔ Vectorization – Transformed text into numerical vectors for model training.
 <br>
-🔹 Model Architecture (Deep Learning)
+<h3><b>🔹 Model Architecture (Deep Learning)</b></h3>
 <br>
 ✔ Embedding Layer – Captures word relationships and semantic meaning.
 ✔ LSTM (Long Short-Term Memory) – Handles sequential dependencies in textual data.
