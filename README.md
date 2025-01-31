@@ -27,16 +27,13 @@ To address these issues, I:
 ✔ Used Tokenization to convert textual data into numerical representations.
 ✔ Built a Deep LSTM Model with an embedding layer for effective sentiment classification.
 <br>
-<br>
 ---
 <br>
 <h3>🎯 Project Objective</h3>
-<br>
-The primary objective of this project was to:
-✅ Implement NLP techniques to clean and preprocess textual data.
-✅ Develop a robust deep learning model for sentiment classification.
+The primary objective of this project was to:<br>
+✅ Implement NLP techniques to clean and preprocess textual data.<br>
+✅ Develop a robust deep learning model for sentiment classification.<br>
 ✅ Handle high-dimensional text data efficiently using embedding layers.
-<br>
 <br>
 ---
 <br>
