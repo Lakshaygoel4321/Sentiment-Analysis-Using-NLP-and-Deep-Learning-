@@ -1,0 +1,10 @@
+scikit-learn
+xgboost
+catboost
+pandas
+numpy
+matplotlib
+tensorflow
+ipykernel
+seaborn
+nltk
