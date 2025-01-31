@@ -46,7 +46,6 @@ The primary objective of this project was to:
 📊 Size: 74,655 rows & 4 columns<br>
 📌 Data Type: Structured and textual data
 <br>
-<br>
 ---
 
 <h3>📌 Methodology & Techniques</h3>
@@ -67,13 +66,11 @@ This project involved multiple NLP and Deep Learning steps:
 <br>
 <h3><b>🔹 Model Architecture (Deep Learning)</b></h3>
 <br>
-✔ Embedding Layer – Captures word relationships and semantic meaning.
-✔ LSTM (Long Short-Term Memory) – Handles sequential dependencies in textual data.
+✔ Embedding Layer – Captures word relationships and semantic meaning.<br>
+✔ LSTM (Long Short-Term Memory) – Handles sequential dependencies in textual data.<br>
 ✔ Fully Connected Layers – Process extracted features for final classification.
 <br>
-<br>
 ---
-<br>
 <h3>🛠 Tech Stack</h3>
 <br>
 💻 Programming Language: Python
@@ -84,9 +81,7 @@ This project involved multiple NLP and Deep Learning steps:
 ✔ TensorFlow-Keras – Deep Learning framework
 ✔ Tokenizer – Text vectorization for NLP
 <br>
-<br>
 ---
-<br>
 📈 Results & Insights
 <br>
 <h3>🚀 Project Goals Achieved:</h3>
@@ -95,29 +90,20 @@ This project involved multiple NLP and Deep Learning steps:
 ✅ Improved accuracy by effectively handling high-dimensional text data.
 ✅ Model provided meaningful sentiment predictions, helping in business insights.
 <br>
-<br>
 ---
-<br>
 <h3>🔍 Challenges Faced & Solutions</h3>
 <br>
 <h3>📌 1. Cleaning the Data</h3>
-<br>
 ❌ Challenge: Unstructured data with missing values and special characters.
 ✅ Solution: Used Pandas for data cleaning, removed null values, and applied NLP techniques for text normalization.
-<br>
 <h3>📌 2. High Dimensionality</h3>
-<br>
 ❌ Challenge: Large vocabulary size led to high-dimensional feature vectors.
 ✅ Solution: Used word embeddings and dimensionality reduction techniques to manage computational efficiency.
-<br>
 <h3>📌 3. Converting Text to Vectors</h3>
-<br>
 ❌ Challenge: Raw text cannot be fed directly into deep learning models.
 ✅ Solution: Used Tokenization and Word Embeddings to create meaningful numerical representations of words.
 <br>
-<br>
 ---
-<br>
 <h3>🔮 Conclusion & Future Scope</h3>
 📌 Conclusion:
 This project successfully demonstrates how NLP and deep learning can be used to analyze sentiment from textual data. By leveraging LSTM networks, the model efficiently processes textual inputs, providing accurate sentiment predictions.
