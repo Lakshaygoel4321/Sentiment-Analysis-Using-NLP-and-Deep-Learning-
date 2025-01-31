@@ -80,9 +80,9 @@ This project involved multiple NLP and Deep Learning steps:
 ---
 📈 Results & Insights
 <h3>🚀 Project Goals Achieved:</h3>
-✅ Successfully implemented NLP techniques for text processing.
-✅ Developed a deep learning-based LSTM model for sentiment classification.
-✅ Improved accuracy by effectively handling high-dimensional text data.
+✅ Successfully implemented NLP techniques for text processing.<br>
+✅ Developed a deep learning-based LSTM model for sentiment classification.<br>
+✅ Improved accuracy by effectively handling high-dimensional text data.<br>
 ✅ Model provided meaningful sentiment predictions, helping in business insights.
 <br>
 ---
@@ -103,14 +103,12 @@ This project involved multiple NLP and Deep Learning steps:
 📌 Conclusion:
 This project successfully demonstrates how NLP and deep learning can be used to analyze sentiment from textual data. By leveraging LSTM networks, the model efficiently processes textual inputs, providing accurate sentiment predictions.
 <br>
-🚀 Future Enhancements:
+<b>🚀 Future Enhancements:<br></b>
 🔹 Implementing Transformer-based models (BERT, GPT) for improved accuracy.
-🔹 Exploring real-time sentiment analysis for live data streams.
+🔹 Exploring real-time sentiment analysis for live data streams.<br>
 🔹 Expanding dataset to enhance model generalization across different domains.
 <br>
-<br>
 ---
-<br>
 This project has been an exciting journey in applying NLP and deep learning to real-world sentiment analysis! Let me know your thoughts and suggestions. 😊📊
 
 Would you like me to craft a LinkedIn post for this project as well? 🚀
