@@ -104,11 +104,12 @@ This project involved multiple NLP and Deep Learning steps:
 This project successfully demonstrates how NLP and deep learning can be used to analyze sentiment from textual data. By leveraging LSTM networks, the model efficiently processes textual inputs, providing accurate sentiment predictions.
 <br>
 <b>🚀 Future Enhancements:<br></b>
-🔹 Implementing Transformer-based models (BERT, GPT) for improved accuracy.
+🔹 Implementing Transformer-based models (BERT, GPT) for improved accuracy.<br>
 🔹 Exploring real-time sentiment analysis for live data streams.<br>
 🔹 Expanding dataset to enhance model generalization across different domains.
 <br>
 ---
+<br>
 This project has been an exciting journey in applying NLP and deep learning to real-world sentiment analysis! Let me know your thoughts and suggestions. 😊📊
 
 Would you like me to craft a LinkedIn post for this project as well? 🚀
