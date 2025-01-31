@@ -73,17 +73,15 @@ This project involved multiple NLP and Deep Learning steps:
 ---
 <h3>🛠 Tech Stack</h3>
 <br>
-💻 Programming Language: Python
-📚 Libraries & Tools:
-✔ Scikit-learn – Preprocessing & evaluation metrics
-✔ Pandas & NumPy – Data handling & transformations
-✔ Matplotlib – Data visualization
-✔ TensorFlow-Keras – Deep Learning framework
-✔ Tokenizer – Text vectorization for NLP
-<br>
+💻 Programming Language: Python<br>
+📚 Libraries & Tools:<br>
+✔ Scikit-learn – Preprocessing & evaluation metrics<br>
+✔ Pandas & NumPy – Data handling & transformations<br>
+✔ Matplotlib – Data visualization<br>
+✔ TensorFlow-Keras – Deep Learning framework<br>
+✔ Tokenizer – Text vectorization for NLP<br>
 ---
 📈 Results & Insights
-<br>
 <h3>🚀 Project Goals Achieved:</h3>
 ✅ Successfully implemented NLP techniques for text processing.
 ✅ Developed a deep learning-based LSTM model for sentiment classification.
